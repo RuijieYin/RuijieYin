@@ -1,17 +1,32 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/>
+---
+<br>
 
-
-<div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/ruijieyin/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="[your-youtube-URL](https://www.youtube.com/@JRYin/videos)">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="[your-twitter-URL](https://twitter.com/jryin0428)">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=RuijieYin&style=flat-square&color=blue" alt=""/>
+```python
+class RuijieYin():
+    
+  def __init__(self):
+    self.name = "Ruijie Yin";
+    self.username = "ruijieyin";
+    self.location = "Miami, Florida";
+    self.twitter = "@jryin0428";
+    self.youtube = "@JRYin";
+
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = RuijieYin()
+```
+
+
+
+------
