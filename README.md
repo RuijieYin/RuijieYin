@@ -11,7 +11,7 @@
 </p>
 
 ```python
-class RYTrip():
+class RYCoding():
     
   def __init__(self):
     self.name = "Ruijie Yin";
@@ -25,7 +25,7 @@ class RYTrip():
     return self.name
 
 if __name__ == '__main__':
-    me = RYTrip()
+    me = RYCoding()
 ```
 
 
