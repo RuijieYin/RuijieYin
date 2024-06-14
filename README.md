@@ -14,13 +14,11 @@
 class RYCoding():
     
   def __init__(self):
-    self.name = "Ruijie Yin";
-    self.username = "ruijieyin";
-    self.location = "Miami, Florida";
-    self.twitter = "@jryin0428";
-    self.youtube = "@JRYin";
-
-  
+    self.name = "Ruijie Yin"
+    self.username = "ruijieyin"
+    self.location = "Miami, Florida"
+    self.major = "Biostatistics"
+ 
   def __str__(self):
     return self.name
 
