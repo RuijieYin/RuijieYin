@@ -16,7 +16,7 @@ class RYCoding():
   def __init__(self):
     self.name = "Ruijie Yin"
     self.username = "ruijieyin"
-    self.location = "Miami, Florida"
+    self.location = "Irvine, California"
     self.major = "Biostatistics"
  
   def __str__(self):
